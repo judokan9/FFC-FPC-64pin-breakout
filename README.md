@@ -1,4 +1,8 @@
 # FFC-FPC-64pin-breakout
+
+![](images/FFC-FPC-breakout-front.jpg)
+![](images/FFC-FPC-breakout-back.jpg)
+
 This is just a simple FFC/FPC 64pin breakout board using the Molex 502790-6491
 
 This could also be adapted to use one of the following connectors:
